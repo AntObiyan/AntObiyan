@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure Project
   -  [Creating a live SOC/Honeynet in Azure](https://github.com/AntObiyan/Azure-SOC)
-  -  [Vulnerbility Management)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  -  [Vulnerbility Management](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
