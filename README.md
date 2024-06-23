@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! Aspiring Cybersecurity Professional
+<h1>Hi, I'm Anthony! Cybersecurity Professional
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
