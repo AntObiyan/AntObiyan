@@ -4,6 +4,10 @@
 
 - <b>Microsoft Azure Project
   -  [Creating a live SOC/Honeynet in Azure](https://github.com/AntObiyan/Azure-SOC)
+ 
+- <b>PowerShell</b>
+
+  -   [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
 - <b>Vulnerbility Management Project
    -  [Vulnerbility Management - Greenbone Security Assistant](https://github.com/AntObiyan/Vulnerability-Management)
