@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Microsoft Azure Project
-  -  [Creating a live SOC/Honeynet in Azure](https://github.com/AntObiyan/Azure-SOC)
+- <b>Microsoft Azure Projects
+  -  [Creating a live SOC/Honeynet](https://github.com/AntObiyan/Azure-SOC)
  
-- <b>PowerShell</b>
+- <b>PowerShell Projects</b>
 
-  -   [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  -   [FIM (File Integrity Monitor)](https://github.com/AntObiyan/File-Integrity-Monitoring-)
     
-- <b>Vulnerbility Management Project
+- <b>Vulnerbility Management Projects
    -  [Vulnerbility Management - Greenbone Security Assistant](https://github.com/AntObiyan/Vulnerability-Management)
 
 <h2> 🤳 Connect with me:</h2>
